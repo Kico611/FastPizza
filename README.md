@@ -1,4 +1,3 @@
-
 # 🍕 FastPizza
 
 Brza i jednostavna aplikacija za naručivanje pizze, izrađena u Reactu koristeći Vite.
@@ -35,3 +34,26 @@ Aplikacija je moderna, brza i jednostavna za korištenje!
 1. Kloniraj repozitorij:
    ```bash
    git clone https://github.com/Kico611/FastPizza.git
+   ```
+
+2. Uđi u direktorij projekta:
+   ```bash
+   cd FastPizza
+   ```
+
+3. Instaliraj potrebne pakete:
+   ```bash
+   npm install
+   ```
+
+4. Pokreni razvojni server:
+   ```bash
+   npm run dev
+   ```
+
+5. Otvori aplikaciju u pregledniku na:
+   ```
+   http://localhost:5173
+   ```
+
+---
