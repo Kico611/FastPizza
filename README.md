@@ -1,5 +1,4 @@
-# Let's create the README.md file content and save it
-readme_content = """
+
 # 🍕 FastPizza
 
 Brza i jednostavna aplikacija za naručivanje pizze, izrađena u Reactu koristeći Vite.
