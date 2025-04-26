@@ -1,8 +1,38 @@
-# React + Vite
+# Let's create the README.md file content and save it
+readme_content = """
+# 🍕 FastPizza
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brza i jednostavna aplikacija za naručivanje pizze, izrađena u Reactu koristeći Vite.
 
-Currently, two official plugins are available:
+### 🔗 Live Demo
+👉 [FastPizza - Pogledaj uživo](https://fast-pizza-38qb.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 📋 Opis
+
+FastPizza omogućuje korisnicima:
+- Pregled i odabir dostupnih pizza.
+- Dodavanje pizza u košaricu.
+- Pregled sadržaja košarice.
+- Finalizaciju narudžbe.
+
+Aplikacija je moderna, brza i jednostavna za korištenje!
+
+---
+
+## 🛠️ Tehnologije korištene
+
+- **React** (frontend razvoj)
+- **Vite** (brzi alat za razvoj i build)
+- **React Router** (navigacija kroz aplikaciju)
+- **Redux Toolkit** (upravljanje stanjem)
+- **CSS Modules** (stilizacija)
+
+---
+
+## 🚀 Pokretanje projekta lokalno
+
+1. Kloniraj repozitorij:
+   ```bash
+   git clone https://github.com/Kico611/FastPizza.git
